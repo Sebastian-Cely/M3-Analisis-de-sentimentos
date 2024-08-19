@@ -1,0 +1,2 @@
+# Ignorar directorios y archivos Python generados automáticamente
+__pycache__/
